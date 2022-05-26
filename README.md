@@ -11,9 +11,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![![orderSum.png](![orderSum](https://user-images.githubusercontent.com/96269164/170602561-856f7ecd-d5bb-4f81-b50d-85608280906f.png))
-](./orderSum.jpg)
+orderSum.png 
 
 ### Built with
 
