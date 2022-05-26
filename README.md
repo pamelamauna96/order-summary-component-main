@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![![orderSum](https://user-images.githubusercontent.com/96269164/170601906-aa211ea7-52a0-44c8-b785-869c6fafb97a.png)
+![![orderSum.png](https://user-images.githubusercontent.com/96269164/170601906-aa211ea7-52a0-44c8-b785-869c6fafb97a.png)
 ](./orderSum.jpg)
 
 ### Built with
