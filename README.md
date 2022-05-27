@@ -11,7 +11,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-[orderSum.png] 
+[order Sum] (orderSum.png)
 
 ### Built with
 
